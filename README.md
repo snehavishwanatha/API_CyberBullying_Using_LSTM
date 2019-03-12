@@ -1,6 +1,6 @@
 # TextClassification_Using_LSTM
 
-Created an API used to detect and avoid abusive contents/comments/posts on various social media and chatting platforms.
+Created an API used to detect abusive comments/posts on various social media and chatting platforms.
 
     Built a LSTM and RNN model for text classification as abusive or non-abusive.
     Used Pickle to dump the trained model which helps in avoiding the model to be trained everytime a query request is posted.
